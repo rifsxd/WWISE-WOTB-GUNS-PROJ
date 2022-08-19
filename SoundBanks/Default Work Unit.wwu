@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{AA919746-1F1E-47B0-851D-4E266398BCC8}" SchemaVersion="97">
+<SoundBanks>
+<WorkUnit Name="Default Work Unit" ID="{AA919746-1F1E-47B0-851D-4E266398BCC8}" PersistMode="Standalone">
+<ChildrenList>
+<SoundBank Name="weapon" ID="{AD4D121A-AE7A-41E3-A361-9D72E9F873B4}">
+<ObjectInclusionList>
+<ObjectRef Name="guns_tow_tow_pc" ID="{218AD2EE-E70F-424E-BF2E-613D1FACFBB3}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_auto_3p" ID="{7E223C61-00AC-4C2D-BAC8-CB2815A504F9}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_auto_1p" ID="{AAEC8E9C-CFD3-4C41-87B3-8502632E8BF6}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_small_3p" ID="{B674DD0B-2C9F-4053-BAA4-5E5E6E5DAD5E}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_small_1p" ID="{7713C8B3-77D0-43B2-886A-0EEAB18316F4}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_huge_3p" ID="{42C394AF-E839-49F1-AAC1-CAD43F1819A1}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_huge_1p" ID="{2313BEA4-938D-46C4-8A0D-B55E63E6ECA2}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="guns_tow_tow_npc" ID="{EA52E567-A2B7-4126-B124-6C31622C35C9}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_huge_extra_1p" ID="{85DDD17E-3BAC-4963-9B12-56B5C8BE7529}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_huge_extra_3p" ID="{E4994264-7678-49CA-95E0-E98D35B83F4C}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_damaged_1p" ID="{24EEFBCB-A31D-4616-8072-E00F0EDF11F8}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+</ObjectInclusionList>
+<ObjectExclusionList/>
+<GameSyncExclusionList/>
+</SoundBank>
+<SoundBank Name="weapon_basic" ID="{50F63295-4A54-4789-A684-EC22FA3FF23E}">
+<ObjectInclusionList>
+<ObjectRef Name="guns_cannonade_cannonade_medium" ID="{DCF13FA5-1874-468E-B03B-CAC28BB9AC03}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_mid_1p" ID="{3C95F165-5244-4259-98E5-7482C1B73C36}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_mid_3p" ID="{D0A76B92-66FC-499C-BBC7-A137C84D4A4F}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_main_1p" ID="{47EBFECA-7DC4-4E86-BCD4-A63A0A2BE4C1}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_main_3p" ID="{BFFFE02F-AF61-4233-B245-1B1818DFAA00}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_tut_2021_medium_gun_50_75mm_pc" ID="{E71BF5F3-30CB-4415-8FB1-4EBD16A577F4}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_tut_2021_main_gun_85_107mm_pc" ID="{FD485C76-4BF4-412A-BE14-7F35AEFAF228}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="guns_cannonade_cannonade_small" ID="{9212A1F9-EDD2-41BF-95BA-9B035ADF1DFB}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_large_3p" ID="{74B62E4A-E455-41B5-A24C-B01B906BEBAB}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="play_wpn_large_1p" ID="{62E05ECF-7FFD-48F7-A31C-D8D231C4E33C}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+<ObjectRef Name="guns_cannonade_cannonade_large" ID="{A63F6333-F1D0-4BCA-9E48-E04647FA7DE2}" WorkUnitID="{B34051A6-F1D3-4558-A9ED-EB78F1DC3BDE}" Origin="Manual" Filter="7"/>
+</ObjectInclusionList>
+<ObjectExclusionList/>
+<GameSyncExclusionList/>
+</SoundBank>
+</ChildrenList>
+</WorkUnit>
+</SoundBanks>
+</WwiseDocument>

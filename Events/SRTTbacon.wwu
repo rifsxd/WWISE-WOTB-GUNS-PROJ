@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{2B95D506-7231-4D3F-A38D-A1E3F5BABEB5}" SchemaVersion="97">
+	<Events>
+		<WorkUnit Name="SRTTbacon" ID="{2B95D506-7231-4D3F-A38D-A1E3F5BABEB5}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="guns_tow_tow_pc" ID="{218AD2EE-E70F-424E-BF2E-613D1FACFBB3}">
+					<ChildrenList>
+						<Action Name="" ID="{9CC96312-9F27-48B4-BB77-298AAA8936A5}" ShortID="415353589"/>
+						<Action Name="" ID="{0354F694-AE0D-4B32-992E-3A5EB3FAB3AD}" ShortID="394839085"/>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_auto_3p" ID="{7E223C61-00AC-4C2D-BAC8-CB2815A504F9}">
+					<ChildrenList>
+						<Action Name="" ID="{BF724307-3FF9-4382-BE93-03C0FFF418A8}" ShortID="947837689">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_auto_3p" ID="{7A99A791-85A9-499A-B5C3-2CC5C58C45D6}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_auto_1p" ID="{AAEC8E9C-CFD3-4C41-87B3-8502632E8BF6}">
+					<ChildrenList>
+						<Action Name="" ID="{5A13F0AE-3909-4F01-96B6-99A8AF29914E}" ShortID="880436378">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_auto_1p" ID="{42D63ECF-5A11-4657-B841-F81C09FB0DA0}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{A13B71CB-EEB6-4F0E-973C-F45139E85D1E}" ShortID="526916346">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_auto_1p" ID="{1A014247-0BE4-46C0-A374-34D01D94C0DC}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_small_3p" ID="{B674DD0B-2C9F-4053-BAA4-5E5E6E5DAD5E}">
+					<ChildrenList>
+						<Action Name="" ID="{5A70B093-FD21-4DA6-854F-B702A216D461}" ShortID="87526445">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_small_3p" ID="{A4D202EC-D7BF-4484-9720-A05A07490BDF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{49D096C8-A8B2-44A1-8A26-FABA080EEAB6}" ShortID="95482396">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_NPC" ID="{501E1637-365C-4352-A522-77E33FAA4152}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_small_1p" ID="{7713C8B3-77D0-43B2-886A-0EEAB18316F4}">
+					<ChildrenList>
+						<Action Name="" ID="{AF00F971-475F-4BF4-8E7C-9AF1D9D4EABA}" ShortID="615379998">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_small_1p" ID="{A6A7DE82-239B-455B-95D8-4A054EED7B2C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D8841326-B248-445D-8C80-792E0D5E0185}" ShortID="592033605">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_small_1p" ID="{CA50DA37-DE7E-4570-8896-0B594B6AC276}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0797D57B-2013-4642-9494-F229E4E8BC41}" ShortID="990170433">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_PC" ID="{F5C4E72A-54EE-49A1-B763-04C257985C33}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_huge_3p" ID="{42C394AF-E839-49F1-AAC1-CAD43F1819A1}">
+					<ChildrenList>
+						<Action Name="" ID="{561D80A3-0F03-4178-AB4E-A8384FC0F63A}" ShortID="794429109">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_huge_3p" ID="{E0E45E53-4F06-4A2D-BF72-420FB23BBC57}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{75049023-952A-4986-BE43-1A5F6AEA808C}" ShortID="829557937">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_NPC" ID="{501E1637-365C-4352-A522-77E33FAA4152}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_huge_1p" ID="{2313BEA4-938D-46C4-8A0D-B55E63E6ECA2}">
+					<ChildrenList>
+						<Action Name="" ID="{DA1CE300-30D0-4CDE-B1A5-24D1E6F7E2F3}" ShortID="900332528">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_huge_1p" ID="{97A0D612-3731-49FB-8421-ED533A4587C2}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{0402E577-2DB6-4937-ABF2-88B3439E6E6B}" ShortID="109466487">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_huge_1p" ID="{1D6457F4-A6BB-4CBF-BE59-C12A15BF9757}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{695B358A-D0CB-479E-8785-7865C838E240}" ShortID="929258827">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_PC" ID="{F5C4E72A-54EE-49A1-B763-04C257985C33}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tow_tow_npc" ID="{EA52E567-A2B7-4126-B124-6C31622C35C9}">
+					<ChildrenList>
+						<Action Name="" ID="{851C873B-0437-4DB7-BF29-F48620EBEE22}" ShortID="116214037"/>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_huge_extra_1p" ID="{85DDD17E-3BAC-4963-9B12-56B5C8BE7529}">
+					<ChildrenList>
+						<Action Name="" ID="{365926BB-0B13-4E05-A74B-816B26A5FDB5}" ShortID="435279023">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_extra_1p" ID="{C69FF9A7-4F25-4BC9-92C3-6FDFCC3AAF67}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{CA7C9456-3005-4791-A4AF-7C07B93449C2}" ShortID="560348873">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_huge_extra_1p" ID="{CB68C83D-ED85-4B4A-9F82-599C1F360A1C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E33F9CE6-4175-459A-9CD6-50E5F0B5BF73}" ShortID="402175321">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_PC" ID="{F5C4E72A-54EE-49A1-B763-04C257985C33}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_huge_extra_3p" ID="{E4994264-7678-49CA-95E0-E98D35B83F4C}">
+					<ChildrenList>
+						<Action Name="" ID="{39BA1F3D-BA70-4A92-91D9-D58A6238E9F2}" ShortID="1015934529">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_huge_extra_3p" ID="{B38038E1-4651-44E5-8A96-2A69F9DFE7AF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{475BF982-8211-4443-8273-DC32E6D0B678}" ShortID="444955488">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_NPC" ID="{501E1637-365C-4352-A522-77E33FAA4152}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_damaged_1p" ID="{24EEFBCB-A31D-4616-8072-E00F0EDF11F8}">
+					<ChildrenList>
+						<Action Name="" ID="{7794F8DD-4411-4195-8522-BAD37CC7F49B}" ShortID="595980802">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Damaged_1p" ID="{06407BC1-175C-4853-926C-1A776F5D3721}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_cannonade_cannonade_medium" ID="{DCF13FA5-1874-468E-B03B-CAC28BB9AC03}">
+					<ChildrenList>
+						<Action Name="" ID="{2DC6D97C-01A4-46ED-AED6-362A48F7D02B}" ShortID="84173794"/>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_mid_1p" ID="{3C95F165-5244-4259-98E5-7482C1B73C36}">
+					<ChildrenList>
+						<Action Name="" ID="{A4610D84-6605-4AC5-B0A2-A7CD5C71D1DE}" ShortID="345790693">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_mid_1p" ID="{078E562A-6457-42B2-8A90-4BB89099526C}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{70B9199F-9912-43BC-A11D-F21B1235CF90}" ShortID="916515254">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_mid_1p" ID="{2E283869-5917-47C0-8CC4-70405A5622A6}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{FCAF7EC7-ABF3-47C6-B2AE-417C7F040D98}" ShortID="727192877">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_PC" ID="{F5C4E72A-54EE-49A1-B763-04C257985C33}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_mid_3p" ID="{D0A76B92-66FC-499C-BBC7-A137C84D4A4F}">
+					<ChildrenList>
+						<Action Name="" ID="{82007F35-9BCA-4A56-9A31-3CDC89716673}" ShortID="804553953">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_mid_3p" ID="{F9AFE090-9549-4F28-A144-C52CBEC0179D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{13356DD0-A7DD-4304-82E2-3D2F4B5D478C}" ShortID="655058877">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_NPC" ID="{501E1637-365C-4352-A522-77E33FAA4152}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_main_1p" ID="{47EBFECA-7DC4-4E86-BCD4-A63A0A2BE4C1}">
+					<ChildrenList>
+						<Action Name="" ID="{959B4C16-322C-4165-AAC5-F0A075824303}" ShortID="524263113">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_main_1p" ID="{068A4E17-4CAD-4122-A334-622758CE8E0D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{6FAE9214-1654-41FE-A814-ACC6D663B7B1}" ShortID="521662923">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_main_1p" ID="{A59BB05F-3AA2-4B50-829E-FB064608F5D4}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E25FFD2A-B9A2-4949-97EA-A5EB12F307BE}" ShortID="236140864">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_PC" ID="{F5C4E72A-54EE-49A1-B763-04C257985C33}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_main_3p" ID="{BFFFE02F-AF61-4233-B245-1B1818DFAA00}">
+					<ChildrenList>
+						<Action Name="" ID="{E526C00F-3C0F-4D75-B708-793D3B233179}" ShortID="305140782">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_main_3p" ID="{4B9F7EE8-B835-448B-81B5-585B00C6685D}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{8EC353FE-2FF8-4049-B7C6-479AFF293DCF}" ShortID="763374344">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_NPC" ID="{501E1637-365C-4352-A522-77E33FAA4152}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_medium" ID="{A3F7460A-4D14-4C68-9745-0C1F21EA36F5}"/>
+				<Event Name="play_tut_2021_medium_gun_50_75mm_pc" ID="{E71BF5F3-30CB-4415-8FB1-4EBD16A577F4}">
+					<ChildrenList>
+						<Action Name="" ID="{2D595347-482B-48E1-AD3E-37D2D01D43D8}" ShortID="928638885">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="medium_gun_50_75mm_pc" ID="{D5FB3196-6671-4663-8139-143BEBC77040}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_tut_2021_main_gun_85_107mm_pc" ID="{FD485C76-4BF4-412A-BE14-7F35AEFAF228}">
+					<ChildrenList>
+						<Action Name="" ID="{028425A9-2CE9-4D7F-A47D-8DC195C94814}" ShortID="648400477">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="main_gun_85_107mm_pc" ID="{8E4F7575-71D5-4ACB-8CAA-59748DFC8ECA}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_light" ID="{2D24D252-2372-40CA-8EEF-4B9108F4F5E9}"/>
+				<Event Name="guns_tracers_tracer_tow" ID="{851D86F2-D0B3-438F-BE39-6FFE5A6EB76F}"/>
+				<Event Name="guns_cannonade_cannonade_small" ID="{9212A1F9-EDD2-41BF-95BA-9B035ADF1DFB}">
+					<ChildrenList>
+						<Action Name="" ID="{2C18E8E1-5E69-4A4B-9C17-8A412B721543}" ShortID="34878102"/>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_large_3p" ID="{74B62E4A-E455-41B5-A24C-B01B906BEBAB}">
+					<ChildrenList>
+						<Action Name="" ID="{BC0E14C6-5191-455B-A3AA-E519501CA4A8}" ShortID="767584957">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_NPC_large_3p" ID="{61A2A490-E094-40F8-9C4D-99E33F325983}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{38760FFB-8053-45C6-BBB8-69A69C807D90}" ShortID="142466004">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_NPC" ID="{501E1637-365C-4352-A522-77E33FAA4152}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="play_wpn_large_1p" ID="{62E05ECF-7FFD-48F7-A31C-D8D231C4E33C}">
+					<ChildrenList>
+						<Action Name="" ID="{6C0256E6-AA70-4244-B1D9-22F7BB84F426}" ShortID="1010561375">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Outside_large_1p" ID="{BA3A76D0-87B8-4076-894D-6F7B8BF8F9FF}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{BF1BFCDB-2018-4F98-AC66-C54DD5BF70FD}" ShortID="1071136308">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Inside_large_1p" ID="{09B56992-05CC-4AF1-A6D3-E420FD9AA080}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{40150FED-2534-40F9-8CD7-CFE775027902}" ShortID="370898749">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Gun_Voice_PC" ID="{F5C4E72A-54EE-49A1-B763-04C257985C33}" WorkUnitID="{DF3DA361-09F8-430D-814F-4080F28088DD}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="guns_tracers_tracer_hard" ID="{7A935B42-7B19-4B1A-84C3-421B85656CF9}"/>
+				<Event Name="guns_cannonade_cannonade_large" ID="{A63F6333-F1D0-4BCA-9E48-E04647FA7DE2}">
+					<ChildrenList>
+						<Action Name="" ID="{87E99AB4-43D8-4F55-A1BF-21365AFDDD19}" ShortID="195974745"/>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

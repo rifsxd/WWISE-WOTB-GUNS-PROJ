@@ -1,0 +1,1256 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "12",
+  "SoundbankVersion": "135",
+  "RootPaths": {
+   "ProjectRoot": "E:\\Github\\WoTB_Gun_Sound_New\\",
+   "SourceFilesRoot": "E:\\Github\\WoTB_Gun_Sound_New\\.cache\\Windows\\",
+   "SoundBanksRoot": "E:\\Github\\WoTB_Gun_Sound_New\\GeneratedSoundBanks\\Windows\\",
+   "ExternalSourcesInputFile": "",
+   "ExternalSourcesOutputRoot": "E:\\Github\\WoTB_Gun_Sound_New\\GeneratedSoundBanks\\Windows"
+  },
+  "DialogueEvents": [],
+  "StreamedFiles": [],
+  "MediaFilesNotInAnyBank": [],
+  "SoundBanks": [
+   {
+    "Id": "1355168291",
+    "Language": "SFX",
+    "Hash": "4021997255",
+    "ObjectPath": "Init",
+    "ShortName": "Init",
+    "Path": "Init.bnk"
+   },
+   {
+    "Id": "3854126194",
+    "Language": "SFX",
+    "Hash": "562065260",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\weapon_basic",
+    "ShortName": "weapon_basic",
+    "Path": "weapon_basic.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "4116159004",
+      "Name": "guns_cannonade_cannonade_large",
+      "ObjectPath": "\\Events\\SRTTbacon\\guns_cannonade_cannonade_large"
+     },
+     {
+      "Id": "636673042",
+      "Name": "guns_cannonade_cannonade_medium",
+      "ObjectPath": "\\Events\\SRTTbacon\\guns_cannonade_cannonade_medium"
+     },
+     {
+      "Id": "2214420452",
+      "Name": "guns_cannonade_cannonade_small",
+      "ObjectPath": "\\Events\\SRTTbacon\\guns_cannonade_cannonade_small"
+     },
+     {
+      "Id": "1756905005",
+      "Name": "play_tut_2021_main_gun_85_107mm_pc",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_tut_2021_main_gun_85_107mm_pc",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "400873104",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_main_gun_85_107mm_pc\\09_297507802\\05_468718711\\575042909.wav",
+        "Path": "SFX/play_tut_2021_main_gun_85_107mm_pc/09_297507802/05_468718711/575042909_3F75BDB9.wem"
+       },
+       {
+        "Id": "562820728",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_main_gun_85_107mm_pc\\09_297507802\\05_468718711\\735988424.wav",
+        "Path": "SFX/play_tut_2021_main_gun_85_107mm_pc/09_297507802/05_468718711/735988424_3F75BDB9.wem"
+       },
+       {
+        "Id": "760743380",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_main_gun_85_107mm_pc\\09_297507802\\05_468718711\\357154242.wav",
+        "Path": "SFX/play_tut_2021_main_gun_85_107mm_pc/09_297507802/05_468718711/357154242_3F75BDB9.wem"
+       },
+       {
+        "Id": "780220367",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_main_gun_85_107mm_pc\\09_297507802\\05_468718711\\390130273.wav",
+        "Path": "SFX/play_tut_2021_main_gun_85_107mm_pc/09_297507802/05_468718711/390130273_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "1465112057",
+      "Name": "play_tut_2021_medium_gun_50_75mm_pc",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_tut_2021_medium_gun_50_75mm_pc",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "22812721",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_medium_gun_50_75mm_pc\\09_304449907\\05_16495624\\238782272.wav",
+        "Path": "SFX/play_tut_2021_medium_gun_50_75mm_pc/09_304449907/05_16495624/238782272_3F75BDB9.wem"
+       },
+       {
+        "Id": "165130463",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_medium_gun_50_75mm_pc\\09_304449907\\05_16495624\\445425738.wav",
+        "Path": "SFX/play_tut_2021_medium_gun_50_75mm_pc/09_304449907/05_16495624/445425738_3F75BDB9.wem"
+       },
+       {
+        "Id": "968351089",
+        "Language": "SFX",
+        "ShortName": "play_tut_2021_medium_gun_50_75mm_pc\\09_304449907\\05_16495624\\924133823.wav",
+        "Path": "SFX/play_tut_2021_medium_gun_50_75mm_pc/09_304449907/05_16495624/924133823_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2447106537",
+      "Name": "play_wpn_large_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_large_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "34385549",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_686326444\\185013132.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_686326444/185013132_3F75BDB9.wem"
+       },
+       {
+        "Id": "49579430",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_686326444\\144425944.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_686326444/144425944_3F75BDB9.wem"
+       },
+       {
+        "Id": "206492667",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_686326444\\757954619.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_686326444/757954619_3F75BDB9.wem"
+       },
+       {
+        "Id": "226822375",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_248388762\\05_180566240\\177502364.wav",
+        "Path": "SFX/play_wpn_large_1p/09_248388762/05_180566240/177502364_3F75BDB9.wem"
+       },
+       {
+        "Id": "248763406",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_686326444\\538538154.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_686326444/538538154_3F75BDB9.wem"
+       },
+       {
+        "Id": "354720805",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_654889295\\700515579.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_654889295/700515579_3F75BDB9.wem"
+       },
+       {
+        "Id": "378893158",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_686326444\\932402188.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_686326444/932402188_3F75BDB9.wem"
+       },
+       {
+        "Id": "420691935",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_248388762\\05_180566240\\980153597.wav",
+        "Path": "SFX/play_wpn_large_1p/09_248388762/05_180566240/980153597_3F75BDB9.wem"
+       },
+       {
+        "Id": "549201810",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_654889295\\662244333.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_654889295/662244333_3F75BDB9.wem"
+       },
+       {
+        "Id": "564608711",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_654889295\\832010072.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_654889295/832010072_3F75BDB9.wem"
+       },
+       {
+        "Id": "600843945",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_248388762\\05_180566240\\342641218.wav",
+        "Path": "SFX/play_wpn_large_1p/09_248388762/05_180566240/342641218_3F75BDB9.wem"
+       },
+       {
+        "Id": "605289121",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_686326444\\10433890.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_686326444/10433890_3F75BDB9.wem"
+       },
+       {
+        "Id": "745102398",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_654889295\\635908702.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_654889295/635908702_3F75BDB9.wem"
+       },
+       {
+        "Id": "810854487",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_681449863\\05_654889295\\692875439.wav",
+        "Path": "SFX/play_wpn_large_1p/09_681449863/05_654889295/692875439_3F75BDB9.wem"
+       },
+       {
+        "Id": "1009331023",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_1p\\09_248388762\\05_180566240\\1055942430.wav",
+        "Path": "SFX/play_wpn_large_1p/09_248388762/05_180566240/1055942430_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2413551107",
+      "Name": "play_wpn_large_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_large_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "46279872",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_3p\\09_537194721\\05_331635238\\503724809.wav",
+        "Path": "SFX/play_wpn_large_3p/09_537194721/05_331635238/503724809_3F75BDB9.wem"
+       },
+       {
+        "Id": "396942837",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_3p\\09_537194721\\05_331635238\\697020813.wav",
+        "Path": "SFX/play_wpn_large_3p/09_537194721/05_331635238/697020813_3F75BDB9.wem"
+       },
+       {
+        "Id": "414244592",
+        "Language": "SFX",
+        "ShortName": "414244592.wav",
+        "Path": "SFX/414244592_3F75BDB9.wem"
+       },
+       {
+        "Id": "560590852",
+        "Language": "SFX",
+        "ShortName": "560590852.wav",
+        "Path": "SFX/560590852_3F75BDB9.wem"
+       },
+       {
+        "Id": "604859276",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_3p\\09_537194721\\05_331635238\\564412701.wav",
+        "Path": "SFX/play_wpn_large_3p/09_537194721/05_331635238/564412701_3F75BDB9.wem"
+       },
+       {
+        "Id": "614495781",
+        "Language": "SFX",
+        "ShortName": "614495781.wav",
+        "Path": "SFX/614495781_3F75BDB9.wem"
+       },
+       {
+        "Id": "621207073",
+        "Language": "SFX",
+        "ShortName": "play_wpn_large_3p\\09_537194721\\05_331635238\\861001734.wav",
+        "Path": "SFX/play_wpn_large_3p/09_537194721/05_331635238/861001734_3F75BDB9.wem"
+       },
+       {
+        "Id": "782206121",
+        "Language": "SFX",
+        "ShortName": "782206121.wav",
+        "Path": "SFX/782206121_3F75BDB9.wem"
+       },
+       {
+        "Id": "964110115",
+        "Language": "SFX",
+        "ShortName": "964110115.wav",
+        "Path": "SFX/964110115_3F75BDB9.wem"
+       },
+       {
+        "Id": "1048251210",
+        "Language": "SFX",
+        "ShortName": "1048251210.wav",
+        "Path": "SFX/1048251210_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "792977691",
+      "Name": "play_wpn_main_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_main_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "18533158",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_1072405891\\65519678.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_1072405891/65519678_3F75BDB9.wem"
+       },
+       {
+        "Id": "248167239",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_120058796\\05_967718012\\40976241.wav",
+        "Path": "SFX/play_wpn_main_1p/09_120058796/05_967718012/40976241_3F75BDB9.wem"
+       },
+       {
+        "Id": "403153561",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_775116295\\791453266.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_775116295/791453266_3F75BDB9.wem"
+       },
+       {
+        "Id": "410008377",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_1072405891\\284243798.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_1072405891/284243798_3F75BDB9.wem"
+       },
+       {
+        "Id": "426393528",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_775116295\\1035500497.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_775116295/1035500497_3F75BDB9.wem"
+       },
+       {
+        "Id": "593195707",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_120058796\\05_967718012\\716687852.wav",
+        "Path": "SFX/play_wpn_main_1p/09_120058796/05_967718012/716687852_3F75BDB9.wem"
+       },
+       {
+        "Id": "626156242",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_775116295\\269046597.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_775116295/269046597_3F75BDB9.wem"
+       },
+       {
+        "Id": "696950005",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_120058796\\05_967718012\\16125511.wav",
+        "Path": "SFX/play_wpn_main_1p/09_120058796/05_967718012/16125511_3F75BDB9.wem"
+       },
+       {
+        "Id": "711987751",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_120058796\\05_967718012\\607932070.wav",
+        "Path": "SFX/play_wpn_main_1p/09_120058796/05_967718012/607932070_3F75BDB9.wem"
+       },
+       {
+        "Id": "858638556",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_1072405891\\569259641.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_1072405891/569259641_3F75BDB9.wem"
+       },
+       {
+        "Id": "940496874",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_775116295\\605658692.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_775116295/605658692_3F75BDB9.wem"
+       },
+       {
+        "Id": "962123649",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_120058796\\05_967718012\\499925707.wav",
+        "Path": "SFX/play_wpn_main_1p/09_120058796/05_967718012/499925707_3F75BDB9.wem"
+       },
+       {
+        "Id": "996504055",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_1p\\09_504055929\\05_1072405891\\720388256.wav",
+        "Path": "SFX/play_wpn_main_1p/09_504055929/05_1072405891/720388256_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "826533089",
+      "Name": "play_wpn_main_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_main_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "174134802",
+        "Language": "SFX",
+        "ShortName": "174134802.wav",
+        "Path": "SFX/174134802_3F75BDB9.wem"
+       },
+       {
+        "Id": "176191577",
+        "Language": "SFX",
+        "ShortName": "176191577.wav",
+        "Path": "SFX/176191577_3F75BDB9.wem"
+       },
+       {
+        "Id": "224000107",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_3p\\09_297507802\\05_468718711\\357154242.wav",
+        "Path": "SFX/play_wpn_main_3p/09_297507802/05_468718711/357154242_3F75BDB9.wem"
+       },
+       {
+        "Id": "280146943",
+        "Language": "SFX",
+        "ShortName": "280146943.wav",
+        "Path": "SFX/280146943_3F75BDB9.wem"
+       },
+       {
+        "Id": "401624159",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_3p\\09_297507802\\05_468718711\\735988424.wav",
+        "Path": "SFX/play_wpn_main_3p/09_297507802/05_468718711/735988424_3F75BDB9.wem"
+       },
+       {
+        "Id": "468676720",
+        "Language": "SFX",
+        "ShortName": "468676720.wav",
+        "Path": "SFX/468676720_3F75BDB9.wem"
+       },
+       {
+        "Id": "484815563",
+        "Language": "SFX",
+        "ShortName": "484815563.wav",
+        "Path": "SFX/484815563_3F75BDB9.wem"
+       },
+       {
+        "Id": "548060600",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_3p\\09_297507802\\05_468718711\\390130273.wav",
+        "Path": "SFX/play_wpn_main_3p/09_297507802/05_468718711/390130273_3F75BDB9.wem"
+       },
+       {
+        "Id": "845343632",
+        "Language": "SFX",
+        "ShortName": "845343632.wav",
+        "Path": "SFX/845343632_3F75BDB9.wem"
+       },
+       {
+        "Id": "897971473",
+        "Language": "SFX",
+        "ShortName": "play_wpn_main_3p\\09_297507802\\05_468718711\\575042909.wav",
+        "Path": "SFX/play_wpn_main_3p/09_297507802/05_468718711/575042909_3F75BDB9.wem"
+       },
+       {
+        "Id": "1068198380",
+        "Language": "SFX",
+        "ShortName": "1068198380.wav",
+        "Path": "SFX/1068198380_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "687753112",
+      "Name": "play_wpn_mid_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_mid_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "125274959",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_804829376\\805246883.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_804829376/805246883_3F75BDB9.wem"
+       },
+       {
+        "Id": "164718736",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_815099290\\1062612654.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_815099290/1062612654_3F75BDB9.wem"
+       },
+       {
+        "Id": "172962275",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_804829376\\618998797.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_804829376/618998797_3F75BDB9.wem"
+       },
+       {
+        "Id": "235097616",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_91326014\\05_154294053\\607187818.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_91326014/05_154294053/607187818_3F75BDB9.wem"
+       },
+       {
+        "Id": "370074151",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_815099290\\756244491.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_815099290/756244491_3F75BDB9.wem"
+       },
+       {
+        "Id": "405907322",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_91326014\\05_154294053\\71570622.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_91326014/05_154294053/71570622_3F75BDB9.wem"
+       },
+       {
+        "Id": "457125007",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_91326014\\05_154294053\\169397489.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_91326014/05_154294053/169397489_3F75BDB9.wem"
+       },
+       {
+        "Id": "539951380",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_91326014\\05_154294053\\398861853.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_91326014/05_154294053/398861853_3F75BDB9.wem"
+       },
+       {
+        "Id": "682814210",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_804829376\\582168009.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_804829376/582168009_3F75BDB9.wem"
+       },
+       {
+        "Id": "729059498",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_91326014\\05_154294053\\587303114.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_91326014/05_154294053/587303114_3F75BDB9.wem"
+       },
+       {
+        "Id": "868524890",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_815099290\\616502566.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_815099290/616502566_3F75BDB9.wem"
+       },
+       {
+        "Id": "897150642",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_1p\\09_1013825728\\05_815099290\\312271989.wav",
+        "Path": "SFX/play_wpn_mid_1p/09_1013825728/05_815099290/312271989_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "721308542",
+      "Name": "play_wpn_mid_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_mid_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "25549803",
+        "Language": "SFX",
+        "ShortName": "25549803.wav",
+        "Path": "SFX/25549803_3F75BDB9.wem"
+       },
+       {
+        "Id": "116030707",
+        "Language": "SFX",
+        "ShortName": "116030707.wav",
+        "Path": "SFX/116030707_3F75BDB9.wem"
+       },
+       {
+        "Id": "329882037",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_3p\\09_304449907\\05_16495624\\924133823.wav",
+        "Path": "SFX/play_wpn_mid_3p/09_304449907/05_16495624/924133823_3F75BDB9.wem"
+       },
+       {
+        "Id": "445283738",
+        "Language": "SFX",
+        "ShortName": "445283738.wav",
+        "Path": "SFX/445283738_3F75BDB9.wem"
+       },
+       {
+        "Id": "551987940",
+        "Language": "SFX",
+        "ShortName": "551987940.wav",
+        "Path": "SFX/551987940_3F75BDB9.wem"
+       },
+       {
+        "Id": "862579360",
+        "Language": "SFX",
+        "ShortName": "862579360.wav",
+        "Path": "SFX/862579360_3F75BDB9.wem"
+       },
+       {
+        "Id": "889704473",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_3p\\09_304449907\\05_16495624\\445425738.wav",
+        "Path": "SFX/play_wpn_mid_3p/09_304449907/05_16495624/445425738_3F75BDB9.wem"
+       },
+       {
+        "Id": "975030440",
+        "Language": "SFX",
+        "ShortName": "play_wpn_mid_3p\\09_304449907\\05_16495624\\238782272.wav",
+        "Path": "SFX/play_wpn_mid_3p/09_304449907/05_16495624/238782272_3F75BDB9.wem"
+       },
+       {
+        "Id": "980484206",
+        "Language": "SFX",
+        "ShortName": "980484206.wav",
+        "Path": "SFX/980484206_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "328402328",
+      "Name": "RTPC_int_distance_600m",
+      "ObjectPath": "\\Game Parameters\\SRTTbacon\\RTPC_int_distance_600m"
+     },
+     {
+      "Id": "406513959",
+      "Name": "RTPC_int_azimuth",
+      "ObjectPath": "\\Game Parameters\\SRTTbacon\\RTPC_int_azimuth"
+     },
+     {
+      "Id": "2064811990",
+      "Name": "RTPC_int_wpn_600m_npc",
+      "ObjectPath": "\\Game Parameters\\SRTTbacon\\RTPC_int_wpn_600m_npc"
+     }
+    ]
+   },
+   {
+    "Id": "3893417221",
+    "Language": "SFX",
+    "Hash": "3953847912",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\weapon",
+    "ShortName": "weapon",
+    "Path": "weapon.bnk",
+    "IncludedEvents": [
+     {
+      "Id": "2700211032",
+      "Name": "guns_tow_tow_npc",
+      "ObjectPath": "\\Events\\SRTTbacon\\guns_tow_tow_npc"
+     },
+     {
+      "Id": "537782068",
+      "Name": "guns_tow_tow_pc",
+      "ObjectPath": "\\Events\\SRTTbacon\\guns_tow_tow_pc"
+     },
+     {
+      "Id": "737532225",
+      "Name": "play_wpn_auto_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_auto_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "102226910",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_1023963894\\05_555986239\\256196759.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_1023963894/05_555986239/256196759_3F75BDB9.wem"
+       },
+       {
+        "Id": "272657696",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_1023963894\\05_555986239\\574249210.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_1023963894/05_555986239/574249210_3F75BDB9.wem"
+       },
+       {
+        "Id": "442935156",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_459461388\\05_619554811\\569246965.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_459461388/05_619554811/569246965_3F75BDB9.wem"
+       },
+       {
+        "Id": "574833858",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_459461388\\05_619554811\\1073634837.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_459461388/05_619554811/1073634837_3F75BDB9.wem"
+       },
+       {
+        "Id": "593651194",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_459461388\\05_619554811\\1036864135.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_459461388/05_619554811/1036864135_3F75BDB9.wem"
+       },
+       {
+        "Id": "707155858",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_459461388\\05_619554811\\1016153705.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_459461388/05_619554811/1016153705_3F75BDB9.wem"
+       },
+       {
+        "Id": "751734997",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_1023963894\\05_555986239\\619530578.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_1023963894/05_555986239/619530578_3F75BDB9.wem"
+       },
+       {
+        "Id": "780832065",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_459461388\\05_619554811\\941564150.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_459461388/05_619554811/941564150_3F75BDB9.wem"
+       },
+       {
+        "Id": "1030889534",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_1p\\09_1023963894\\05_555986239\\737501185.wav",
+        "Path": "SFX/play_wpn_auto_1p/09_1023963894/05_555986239/737501185_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "703977083",
+      "Name": "play_wpn_auto_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_auto_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "253161845",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_3p\\09_37637764\\05_829566014\\85227727.wav",
+        "Path": "SFX/play_wpn_auto_3p/09_37637764/05_829566014/85227727_3F75BDB9.wem"
+       },
+       {
+        "Id": "313147950",
+        "Language": "SFX",
+        "ShortName": "313147950.wav",
+        "Path": "SFX/313147950_3F75BDB9.wem"
+       },
+       {
+        "Id": "318798114",
+        "Language": "SFX",
+        "ShortName": "318798114.wav",
+        "Path": "SFX/318798114_3F75BDB9.wem"
+       },
+       {
+        "Id": "558419338",
+        "Language": "SFX",
+        "ShortName": "558419338.wav",
+        "Path": "SFX/558419338_3F75BDB9.wem"
+       },
+       {
+        "Id": "655052878",
+        "Language": "SFX",
+        "ShortName": "655052878.wav",
+        "Path": "SFX/655052878_3F75BDB9.wem"
+       },
+       {
+        "Id": "748092809",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_3p\\09_37637764\\05_829566014\\515222901.wav",
+        "Path": "SFX/play_wpn_auto_3p/09_37637764/05_829566014/515222901_3F75BDB9.wem"
+       },
+       {
+        "Id": "837288890",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_3p\\09_37637764\\05_829566014\\272533204.wav",
+        "Path": "SFX/play_wpn_auto_3p/09_37637764/05_829566014/272533204_3F75BDB9.wem"
+       },
+       {
+        "Id": "852737924",
+        "Language": "SFX",
+        "ShortName": "852737924.wav",
+        "Path": "SFX/852737924_3F75BDB9.wem"
+       },
+       {
+        "Id": "909312279",
+        "Language": "SFX",
+        "ShortName": "play_wpn_auto_3p\\09_37637764\\05_829566014\\134454443.wav",
+        "Path": "SFX/play_wpn_auto_3p/09_37637764/05_829566014/134454443_3F75BDB9.wem"
+       },
+       {
+        "Id": "993834555",
+        "Language": "SFX",
+        "ShortName": "993834555.wav",
+        "Path": "SFX/993834555_3F75BDB9.wem"
+       },
+       {
+        "Id": "1064463842",
+        "Language": "SFX",
+        "ShortName": "1064463842.wav",
+        "Path": "SFX/1064463842_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3995076965",
+      "Name": "play_wpn_damaged_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_damaged_1p"
+     },
+     {
+      "Id": "2047267481",
+      "Name": "play_wpn_huge_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_huge_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "77285596",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_588576833\\287371474.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_588576833/287371474_3F75BDB9.wem"
+       },
+       {
+        "Id": "259908347",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\318987794.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/318987794_3F75BDB9.wem"
+       },
+       {
+        "Id": "338262731",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_588576833\\225024385.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_588576833/225024385_3F75BDB9.wem"
+       },
+       {
+        "Id": "365898085",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\895103884.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/895103884_3F75BDB9.wem"
+       },
+       {
+        "Id": "424944283",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_858702980\\05_318614965\\324796188.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_858702980/05_318614965/324796188_3F75BDB9.wem"
+       },
+       {
+        "Id": "435508645",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_588576833\\873733493.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_588576833/873733493_3F75BDB9.wem"
+       },
+       {
+        "Id": "437563379",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\1005559135.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/1005559135_3F75BDB9.wem"
+       },
+       {
+        "Id": "516237376",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_858702980\\05_318614965\\333611881.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_858702980/05_318614965/333611881_3F75BDB9.wem"
+       },
+       {
+        "Id": "560390472",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_588576833\\889983042.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_588576833/889983042_3F75BDB9.wem"
+       },
+       {
+        "Id": "601364483",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_858702980\\05_318614965\\575487676.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_858702980/05_318614965/575487676_3F75BDB9.wem"
+       },
+       {
+        "Id": "892300906",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_588576833\\970587901.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_588576833/970587901_3F75BDB9.wem"
+       },
+       {
+        "Id": "914790483",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\922611795.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/922611795_3F75BDB9.wem"
+       },
+       {
+        "Id": "923809196",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_858702980\\05_318614965\\40553620.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_858702980/05_318614965/40553620_3F75BDB9.wem"
+       },
+       {
+        "Id": "1031077253",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_588576833\\438366739.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_588576833/438366739_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "2013712307",
+      "Name": "play_wpn_huge_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_huge_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "76090634",
+        "Language": "SFX",
+        "ShortName": "76090634.wav",
+        "Path": "SFX/76090634_3F75BDB9.wem"
+       },
+       {
+        "Id": "110559806",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_3p\\09_268476975\\05_235998534\\402869116.wav",
+        "Path": "SFX/play_wpn_huge_3p/09_268476975/05_235998534/402869116_3F75BDB9.wem"
+       },
+       {
+        "Id": "160919731",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_3p\\09_268476975\\05_235998534\\525553075.wav",
+        "Path": "SFX/play_wpn_huge_3p/09_268476975/05_235998534/525553075_3F75BDB9.wem"
+       },
+       {
+        "Id": "330937658",
+        "Language": "SFX",
+        "ShortName": "330937658.wav",
+        "Path": "SFX/330937658_3F75BDB9.wem"
+       },
+       {
+        "Id": "385368469",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_3p\\09_268476975\\05_235998534\\587260030.wav",
+        "Path": "SFX/play_wpn_huge_3p/09_268476975/05_235998534/587260030_3F75BDB9.wem"
+       },
+       {
+        "Id": "427848538",
+        "Language": "SFX",
+        "ShortName": "427848538.wav",
+        "Path": "SFX/427848538_3F75BDB9.wem"
+       },
+       {
+        "Id": "510789839",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_3p\\09_268476975\\05_235998534\\348389764.wav",
+        "Path": "SFX/play_wpn_huge_3p/09_268476975/05_235998534/348389764_3F75BDB9.wem"
+       },
+       {
+        "Id": "613629763",
+        "Language": "SFX",
+        "ShortName": "613629763.wav",
+        "Path": "SFX/613629763_3F75BDB9.wem"
+       },
+       {
+        "Id": "819415224",
+        "Language": "SFX",
+        "ShortName": "819415224.wav",
+        "Path": "SFX/819415224_3F75BDB9.wem"
+       },
+       {
+        "Id": "883857597",
+        "Language": "SFX",
+        "ShortName": "883857597.wav",
+        "Path": "SFX/883857597_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3507137348",
+      "Name": "play_wpn_huge_extra_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_huge_extra_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "58701864",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_530964092\\980562199.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_530964092/980562199_3F75BDB9.wem"
+       },
+       {
+        "Id": "61713996",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_530964092\\748782986.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_530964092/748782986_3F75BDB9.wem"
+       },
+       {
+        "Id": "259908347",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\318987794.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/318987794_3F75BDB9.wem"
+       },
+       {
+        "Id": "320235825",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_440618950\\174122587.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_440618950/174122587_3F75BDB9.wem"
+       },
+       {
+        "Id": "365898085",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\895103884.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/895103884_3F75BDB9.wem"
+       },
+       {
+        "Id": "377609917",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_440618950\\66620843.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_440618950/66620843_3F75BDB9.wem"
+       },
+       {
+        "Id": "428113435",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_530964092\\351922165.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_530964092/351922165_3F75BDB9.wem"
+       },
+       {
+        "Id": "437563379",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\1005559135.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/1005559135_3F75BDB9.wem"
+       },
+       {
+        "Id": "437727046",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_440618950\\674118920.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_440618950/674118920_3F75BDB9.wem"
+       },
+       {
+        "Id": "510346610",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_440618950\\69996017.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_440618950/69996017_3F75BDB9.wem"
+       },
+       {
+        "Id": "570234157",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_440618950\\63561690.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_440618950/63561690_3F75BDB9.wem"
+       },
+       {
+        "Id": "784151427",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_440618950\\998235903.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_440618950/998235903_3F75BDB9.wem"
+       },
+       {
+        "Id": "794975632",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_1p\\09_906550282\\05_530964092\\854047531.wav",
+        "Path": "SFX/play_wpn_huge_extra_1p/09_906550282/05_530964092/854047531_3F75BDB9.wem"
+       },
+       {
+        "Id": "914790483",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_1p\\09_327280318\\05_635980657\\922611795.wav",
+        "Path": "SFX/play_wpn_huge_1p/09_327280318/05_635980657/922611795_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "3540692522",
+      "Name": "play_wpn_huge_extra_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_huge_extra_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "262713935",
+        "Language": "SFX",
+        "ShortName": "262713935.wav",
+        "Path": "SFX/262713935_3F75BDB9.wem"
+       },
+       {
+        "Id": "353656754",
+        "Language": "SFX",
+        "ShortName": "353656754.wav",
+        "Path": "SFX/353656754_3F75BDB9.wem"
+       },
+       {
+        "Id": "374146159",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_3p\\09_101730601\\05_390108814\\1014665366.wav",
+        "Path": "SFX/play_wpn_huge_extra_3p/09_101730601/05_390108814/1014665366_3F75BDB9.wem"
+       },
+       {
+        "Id": "411261894",
+        "Language": "SFX",
+        "ShortName": "411261894.wav",
+        "Path": "SFX/411261894_3F75BDB9.wem"
+       },
+       {
+        "Id": "429120180",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_3p\\09_101730601\\05_390108814\\1067548993.wav",
+        "Path": "SFX/play_wpn_huge_extra_3p/09_101730601/05_390108814/1067548993_3F75BDB9.wem"
+       },
+       {
+        "Id": "501943541",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_3p\\09_101730601\\05_390108814\\35614654.wav",
+        "Path": "SFX/play_wpn_huge_extra_3p/09_101730601/05_390108814/35614654_3F75BDB9.wem"
+       },
+       {
+        "Id": "544714802",
+        "Language": "SFX",
+        "ShortName": "544714802.wav",
+        "Path": "SFX/544714802_3F75BDB9.wem"
+       },
+       {
+        "Id": "779288661",
+        "Language": "SFX",
+        "ShortName": "779288661.wav",
+        "Path": "SFX/779288661_3F75BDB9.wem"
+       },
+       {
+        "Id": "976446988",
+        "Language": "SFX",
+        "ShortName": "976446988.wav",
+        "Path": "SFX/976446988_3F75BDB9.wem"
+       },
+       {
+        "Id": "1032878392",
+        "Language": "SFX",
+        "ShortName": "play_wpn_huge_extra_3p\\09_101730601\\05_390108814\\668472598.wav",
+        "Path": "SFX/play_wpn_huge_extra_3p/09_101730601/05_390108814/668472598_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "782789765",
+      "Name": "play_wpn_small_1p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_small_1p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "58591680",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_241860450\\66517048.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_241860450/66517048_3F75BDB9.wem"
+       },
+       {
+        "Id": "103226826",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_71490211\\748097159.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_71490211/748097159_3F75BDB9.wem"
+       },
+       {
+        "Id": "112673341",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\892376102.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/892376102_3F75BDB9.wem"
+       },
+       {
+        "Id": "160945849",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_71490211\\894820800.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_71490211/894820800_3F75BDB9.wem"
+       },
+       {
+        "Id": "161983987",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\601433708.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/601433708_3F75BDB9.wem"
+       },
+       {
+        "Id": "188677334",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\180995378.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/180995378_3F75BDB9.wem"
+       },
+       {
+        "Id": "201145742",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\920572572.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/920572572_3F75BDB9.wem"
+       },
+       {
+        "Id": "539058817",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\1014587049.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/1014587049_3F75BDB9.wem"
+       },
+       {
+        "Id": "556103514",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_241860450\\53974472.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_241860450/53974472_3F75BDB9.wem"
+       },
+       {
+        "Id": "584879160",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_71490211\\231216972.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_71490211/231216972_3F75BDB9.wem"
+       },
+       {
+        "Id": "614450160",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_71490211\\1030094137.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_71490211/1030094137_3F75BDB9.wem"
+       },
+       {
+        "Id": "727472006",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_71490211\\307269935.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_71490211/307269935_3F75BDB9.wem"
+       },
+       {
+        "Id": "747288503",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_71490211\\604958309.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_71490211/604958309_3F75BDB9.wem"
+       },
+       {
+        "Id": "874773117",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\156285638.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/156285638_3F75BDB9.wem"
+       },
+       {
+        "Id": "890758142",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_241860450\\330253844.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_241860450/330253844_3F75BDB9.wem"
+       },
+       {
+        "Id": "939541267",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_381765149\\05_965905418\\934302384.wav",
+        "Path": "SFX/play_wpn_small_1p/09_381765149/05_965905418/934302384_3F75BDB9.wem"
+       },
+       {
+        "Id": "1014234354",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_1p\\09_690373228\\05_241860450\\799881003.wav",
+        "Path": "SFX/play_wpn_small_1p/09_690373228/05_241860450/799881003_3F75BDB9.wem"
+       }
+      ]
+     },
+     {
+      "Id": "749234623",
+      "Name": "play_wpn_small_3p",
+      "ObjectPath": "\\Events\\SRTTbacon\\play_wpn_small_3p",
+      "IncludedMemoryFiles": [
+       {
+        "Id": "23587769",
+        "Language": "SFX",
+        "ShortName": "23587769.wav",
+        "Path": "SFX/23587769_3F75BDB9.wem"
+       },
+       {
+        "Id": "137996617",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_3p\\09_22944933\\05_653928250\\126096.wav",
+        "Path": "SFX/play_wpn_small_3p/09_22944933/05_653928250/126096_3F75BDB9.wem"
+       },
+       {
+        "Id": "142475801",
+        "Language": "SFX",
+        "ShortName": "142475801.wav",
+        "Path": "SFX/142475801_3F75BDB9.wem"
+       },
+       {
+        "Id": "226769710",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_3p\\09_22944933\\05_653928250\\423792093.wav",
+        "Path": "SFX/play_wpn_small_3p/09_22944933/05_653928250/423792093_3F75BDB9.wem"
+       },
+       {
+        "Id": "366953882",
+        "Language": "SFX",
+        "ShortName": "366953882.wav",
+        "Path": "SFX/366953882_3F75BDB9.wem"
+       },
+       {
+        "Id": "370055436",
+        "Language": "SFX",
+        "ShortName": "370055436.wav",
+        "Path": "SFX/370055436_3F75BDB9.wem"
+       },
+       {
+        "Id": "438851449",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_3p\\09_22944933\\05_653928250\\420267588.wav",
+        "Path": "SFX/play_wpn_small_3p/09_22944933/05_653928250/420267588_3F75BDB9.wem"
+       },
+       {
+        "Id": "683343288",
+        "Language": "SFX",
+        "ShortName": "683343288.wav",
+        "Path": "SFX/683343288_3F75BDB9.wem"
+       },
+       {
+        "Id": "938441030",
+        "Language": "SFX",
+        "ShortName": "play_wpn_small_3p\\09_22944933\\05_653928250\\112102711.wav",
+        "Path": "SFX/play_wpn_small_3p/09_22944933/05_653928250/112102711_3F75BDB9.wem"
+       },
+       {
+        "Id": "950724108",
+        "Language": "SFX",
+        "ShortName": "950724108.wav",
+        "Path": "SFX/950724108_3F75BDB9.wem"
+       }
+      ]
+     }
+    ],
+    "GameParameters": [
+     {
+      "Id": "328402328",
+      "Name": "RTPC_int_distance_600m",
+      "ObjectPath": "\\Game Parameters\\SRTTbacon\\RTPC_int_distance_600m"
+     },
+     {
+      "Id": "406513959",
+      "Name": "RTPC_int_azimuth",
+      "ObjectPath": "\\Game Parameters\\SRTTbacon\\RTPC_int_azimuth"
+     },
+     {
+      "Id": "2064811990",
+      "Name": "RTPC_int_wpn_600m_npc",
+      "ObjectPath": "\\Game Parameters\\SRTTbacon\\RTPC_int_wpn_600m_npc"
+     }
+    ]
+   }
+  ]
+ }
+}

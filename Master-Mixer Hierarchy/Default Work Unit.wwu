@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" SchemaVersion="97">
+	<Busses>
+		<WorkUnit Name="Default Work Unit" ID="{005C6247-5812-4D7E-86EA-2F3C50B5E166}" PersistMode="Standalone">
+			<ChildrenList>
+				<Bus Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="System" ID="{4CD97F24-1FA9-4334-82C6-E371A7A51E93}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Bus Name="a1wxmnvc" ID="{6FA3AD9F-5091-497E-AE64-14DEBC4A65D1}"/>
+						<Bus Name="a1j4re50" ID="{5030EB88-3B15-4293-9689-239C2FE5F01D}"/>
+						<Bus Name="a1thqkjn" ID="{4699FDA4-6C49-43F9-9596-0717B37D107C}"/>
+						<Bus Name="a0daop4r" ID="{3D94CF2C-E3B2-4B86-9591-2455332B6E52}"/>
+						<Bus Name="VOICEOVER" ID="{2599D897-E29E-4A93-A302-E3A40FADBD2E}"/>
+					</ChildrenList>
+				</Bus>
+				<Bus Name="Motion Factory Bus" ID="{2AF9B9C6-6EF1-46E9-B5F2-E30C9E602C74}">
+					<ReferenceList>
+						<Reference Name="AudioDevice">
+							<ObjectRef Name="Default_Motion_Device" ID="{49D1BE5F-2306-4FB9-84AA-0D4D55C64CC1}" WorkUnitID="{4E4E5CEF-BF9B-414A-B547-90244203047B}"/>
+						</Reference>
+					</ReferenceList>
+				</Bus>
+			</ChildrenList>
+		</WorkUnit>
+	</Busses>
+</WwiseDocument>
